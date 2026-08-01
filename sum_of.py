@@ -12,5 +12,5 @@ def main() -> None:
     print(f"Sum: {result}")
 
 
-if __name__ == "__main__":
+if __name__ == "__main__"
     main()
